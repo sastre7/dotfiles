@@ -1,30 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @sastre7
-
-1
-0
-
-    0
-
-tiborsimon/temp
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Pulse
-Graphs
-temp/vimrc
-cd52ca6 a minute ago
-@tiborsimon tiborsimon Update vimrc
-45 lines (36 sloc) 1.88 KB
 " Genral UI settings
 set number             " Enables the line numbers.
 set ruler              " Enables the ruler on the bottom of the screen.
@@ -69,8 +42,3 @@ nnoremap ; :
 
 nnoremap <leader>w :w<cr>
 nnoremap <leader>q :q<cr>
-
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
-
